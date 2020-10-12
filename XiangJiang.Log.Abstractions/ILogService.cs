@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace XiangJiang.Log.Abstractions
+namespace XiangJiang.Logging.Abstractions
 {
     public interface ILogService : IDisposable
     {
