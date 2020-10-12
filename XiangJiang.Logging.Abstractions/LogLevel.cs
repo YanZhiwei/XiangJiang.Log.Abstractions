@@ -1,4 +1,4 @@
-﻿namespace XiangJiang.Log.Abstractions
+﻿namespace XiangJiang.Logging.Abstractions
 {
     public enum LogLevel
     {

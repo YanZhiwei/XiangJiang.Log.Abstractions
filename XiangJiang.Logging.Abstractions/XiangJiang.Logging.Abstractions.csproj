@@ -11,8 +11,10 @@
     <Authors>YanZhiwei</Authors>
     <Description>Log Abstractions</Description>
     <Copyright>Copyright YanZhiwei 2020</Copyright>
-    <PackageProjectUrl>https://github.com/YanZhiwei/XiangJiang.Log.Abstractions</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Log.Abstractions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/YanZhiwei/XiangJiang.Logging.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Logging.Abstractions</RepositoryUrl>
+    <RootNamespace>XiangJiang.Logging.Abstractions</RootNamespace>
+    <AssemblyName>XiangJiang.Logging.Abstractions</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
