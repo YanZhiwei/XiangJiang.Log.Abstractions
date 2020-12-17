@@ -13,13 +13,6 @@ namespace XiangJiang.Logging.Abstractions
         void Debug(string message);
 
         /// <summary>
-        ///     Debug记录
-        /// </summary>
-        /// <param name="message">日志信息</param>
-        /// <param name="ex">异常信息</param>
-        void Debug(string message, Exception ex);
-
-        /// <summary>
         ///     Error记录
         /// </summary>
         /// <param name="message">日志信息</param>
@@ -52,24 +45,10 @@ namespace XiangJiang.Logging.Abstractions
         void Info(string message);
 
         /// <summary>
-        ///     Info记录
-        /// </summary>
-        /// <param name="message">日志信息</param>
-        /// <param name="ex">异常信息</param>
-        void Info(string message, Exception ex);
-
-        /// <summary>
         ///     Warn记录
         /// </summary>
         /// <param name="message">日志信息</param>
         void Warn(string message);
-
-        /// <summary>
-        ///     Warn记录
-        /// </summary>
-        /// <param name="message">日志信息</param>
-        /// <param name="ex">异常信息</param>
-        void Warn(string message, Exception ex);
 
         #endregion Methods
     }
