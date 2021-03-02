@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Logging.Abstractions</RepositoryUrl>
     <RootNamespace>XiangJiang.Logging.Abstractions</RootNamespace>
     <AssemblyName>XiangJiang.Logging.Abstractions</AssemblyName>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\.assets\nugetico.png">
